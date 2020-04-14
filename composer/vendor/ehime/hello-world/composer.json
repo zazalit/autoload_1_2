@@ -1,0 +1,22 @@
+{
+    "name": "hello-world",
+    "description": "quête Composer ",
+    "version":     "1.0.5",
+    "type":        "library",
+    "license":     "MIT",
+    "authors": [
+        {
+            "name": "zazalit",
+            "email": "lisa.24@hotmail.fr"
+        }
+    ],
+    "require": {
+        
+    },
+    
+    "autoload": {
+        "psr-0": {
+            "HelloWorld": "src/"
+        }
+    }
+}

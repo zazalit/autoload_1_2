@@ -1,0 +1,19 @@
+{
+    "name": "composer_quest",
+    "description": "Quête Composer",
+    "authors": [
+        {
+            "name": "zazalit",
+            "email": "lisa.24@hotmail.fr"
+        }
+    ],
+    "require": {
+       
+    },
+
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}
